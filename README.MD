@@ -2,7 +2,7 @@ WinJS_VimeoVideo
 By Ola Karlsson
 http://olakarlsson.com
 
-This was an experiment and proof of concept, authenticating and calling the v2 "advanced" Vimeo API from Windows 8 WinJs. 
+This was an experiment and proof of concept, authenticating and calling the v2 "advanced" Vimeo API from Windows 8 WinJs.
 
 The Oath stuff is based on: 
 WinJS OAuth for Twitter v1.3
